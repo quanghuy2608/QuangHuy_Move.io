@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e5e0c90b4838f43a6b10875820f5be, type: 3}
+  m_Name: PlayerSkinData
+  m_EditorClassIdentifier: 
+  skinItems:
+  - skinName: BatMan
+    pantMaterial: {fileID: 2100000, guid: 01e11c20d17125740b3a4d6e9f7710cc, type: 2}
+    skinIcon: {fileID: 21300000, guid: 47c8d5358d60d474388d6a7e89a221aa, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: ChamBi
+    pantMaterial: {fileID: 2100000, guid: 25d97129d51fd364bb9fe8e5d72acd3c, type: 2}
+    skinIcon: {fileID: 21300000, guid: 60bbae7447731bc4f8f7921a7b846832, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: CoMy
+    pantMaterial: {fileID: 2100000, guid: 4b9be59be93db4a41b01afb83693d629, type: 2}
+    skinIcon: {fileID: 21300000, guid: e4d349a1e99479b42882cbf208c4e894, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: VanTim
+    pantMaterial: {fileID: 2100000, guid: 798dd4b0f652be1468d1b9d250c2a3e9, type: 2}
+    skinIcon: {fileID: 21300000, guid: 26709d5737c6d6e4b90ed4b589a29b6b, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: DaBao
+    pantMaterial: {fileID: 2100000, guid: 4310904d0d9f2b34cb2c62af133b4e9f, type: 2}
+    skinIcon: {fileID: 21300000, guid: e6cdcdd7f2a0d8b4fb11ca94d0d7d775, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: Skull
+    pantMaterial: {fileID: 2100000, guid: 335c724284a610d469df9d500315583f, type: 2}
+    skinIcon: {fileID: 21300000, guid: e97fa78b135de6144a5983996978204a, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: Rainbow
+    pantMaterial: {fileID: 2100000, guid: 78d107acaddfbb647bce7ee8a25a1f6d, type: 2}
+    skinIcon: {fileID: 21300000, guid: 006435c12055ced4384c81603df71e0e, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: Pokemon
+    pantMaterial: {fileID: 2100000, guid: fee9982db67865d439615bba614454a4, type: 2}
+    skinIcon: {fileID: 21300000, guid: f5d61e52e0c02c7499cc3e23eb8c7f3f, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
+  - skinName: Onion
+    pantMaterial: {fileID: 2100000, guid: 27250b6aa5431bf48becab9c1120fbb5, type: 2}
+    skinIcon: {fileID: 21300000, guid: e119361a0d7fd344eb37842037719c31, type: 3}
+    skinPrice: 5
+    isUnlocked: 1
